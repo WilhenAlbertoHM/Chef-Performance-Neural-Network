@@ -1,4 +1,4 @@
-# Chef-Performance-Neural-Network
+# Chefs-Performance-Neural-Network
 
 ## Overview
 This project is part of the CS470 - Artificial Intelligence course here at the University of Massachusetts Boston, and it focuses on training a neural network to evaluate collaborative performance among 20 chefs. The neural network is designed to predict the outcomes of the number of complete/incomplete tasks, the average bonus <span>($)</span> each chef earned after the collaborative task, and the money <span>($)</span> that the company earned or lost after the task. 
